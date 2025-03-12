@@ -2,7 +2,10 @@
 
 ## Я начинающий тестировщик
 
-Languages and tools
+### Languages and Tools
+![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=MySQL)
+![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman)
+![Charles](https://img.shields.io/badge/-Charles-090909?style=for-the-badge&logo=Charles)
 
 Socials
 <!--
