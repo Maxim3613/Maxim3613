@@ -1,6 +1,6 @@
 ![Header](https://github.com/Maxim3613/Maxim3613/blob/main/assets/header.png)
 
-Abut me
+## Я начинающий тестировщик
 
 Languages and tools
 
