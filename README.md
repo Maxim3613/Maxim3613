@@ -7,7 +7,9 @@
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman)
 ![Charles](https://img.shields.io/badge/-Charles-090909?style=for-the-badge&logo=Charles)
 
-Socials
+### Socials
+[![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=VK)](https://vk.com/id145843304)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-090909?style=for-the-badge&logo=WhatsApp)](+79113642991)
 <!--
 **Maxim3613/Maxim3613** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
