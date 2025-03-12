@@ -10,6 +10,8 @@
 ### Socials
 [![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=VK)](https://vk.com/id145843304)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-090909?style=for-the-badge&logo=WhatsApp)](+79113642991)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxim3613&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Maxim3613/Maxim3613** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
